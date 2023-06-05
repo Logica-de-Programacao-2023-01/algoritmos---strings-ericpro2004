@@ -13,5 +13,5 @@ func main() {
 
 	Semespaço := strings.ReplaceAll(nome, " ", "")
 
-	fmt.Println("String sem espaços em branco:", Semespaço)
+	fmt.Println("String sem espaços em branco: ", Semespaço)
 }
